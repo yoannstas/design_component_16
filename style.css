@@ -1,0 +1,50 @@
+body {
+    font-family: arial;
+}
+
+.card {
+    border-radius: 0 !important;
+    color: #939292;
+}
+
+.small {
+    font-size: 65%;
+}
+.fa-volume-down {
+    padding-right: 5px;
+}
+
+.card-title {
+    color: black;
+    padding-top: 10px;
+    font-weight: bold;
+}
+.card-text {
+    color: #939292;
+    padding-bottom: 30px;
+    font-size: 85%;
+    margin-top: -10px;
+}
+
+.footer {
+    display: block;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.black {
+    color: black;
+}
+
+.footertxt {
+    padding-left: 30px;
+    padding-top: 10px;
+    margin-bottom: 10px;
+    font-size: 70%;
+}
+
+.float-right {
+    padding-top: 14px;
+    padding-right: -5px;
+}
+
